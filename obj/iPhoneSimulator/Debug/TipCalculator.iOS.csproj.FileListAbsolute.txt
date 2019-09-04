@@ -1,0 +1,15 @@
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/bin/iPhoneSimulator/Debug/TipCalculator.iOS.exe
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/bin/iPhoneSimulator/Debug/TipCalculator.iOS.pdb
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.csprojAssemblyReference.cache
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.csproj.CoreCompileInputs.cache
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.csproj.CopyComplete
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.exe
+/Users/adrianamota/Projects/TipCalculator.iOS/TipCalculator.iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.pdb
